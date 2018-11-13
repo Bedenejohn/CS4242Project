@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1cf0c17fe501a0e1c0c1da14c5938e0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e914e3abfe5fc0b8f06df40c5fd8f6e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/11312d4b2e36f242a98662278418fdf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3fa2a00f7a63ed29ccafeec2e0a3ee35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fc72fc8d7881477055e1723a71963b36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c114148f184fd5f7a85b33214c0d338e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d259ac164df7c1c654c1ec81c761c91c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1565f729326d8974bb3bae930dc95f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a5d1e41c08f81f44857aa64d3672086b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d9c858954b926f0231ff9ff11a42454d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b6f9cec0db0a4c3597fa600000e2872/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6133e3cb114228ed36d39644e83cfa86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5af729b9f23066dc697ead4df03cf8c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9c8f7e75f56bfd772a61b096762bdeed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5fb9196b9ed5faaa08ff546d94953d67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7510acf27e4816fe850ff10570ff8d77/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/716ce9d91140511d3cb19bcd20469e26/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95e363f09da8a121310fbc6d7dc45683/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/605825d3c587e4c6b340f3fed5e71134/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f6e4b0d926c8ed60033bf68c09ad4d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b7eee7ad1e101fe64ec576e362e41463/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/688f95265d2be61f4ed7f6866b8c8321/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a40993ebbffe0db35848cd8046ccc1c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/071995ff78c9f126d1f565ba8cf31d04/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f66bc0628e59c3865736d831f83eecd6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f5b05a9f3f5d5ab91f8ee8aa3711d119/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4000ac57c0b55b6281db60be633e6362/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e914e3abfe5fc0b8f06df40c5fd8f6e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e914e3abfe5fc0b8f06df40c5fd8f6e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7510acf27e4816fe850ff10570ff8d77/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7510acf27e4816fe850ff10570ff8d77/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/716ce9d91140511d3cb19bcd20469e26/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/716ce9d91140511d3cb19bcd20469e26/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7510acf27e4816fe850ff10570ff8d77/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.faisalshuraym.final_project.MainActivity
+ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1cf0c17fe501a0e1c0c1da14c5938e0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1cf0c17fe501a0e1c0c1da14c5938e0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e914e3abfe5fc0b8f06df40c5fd8f6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e914e3abfe5fc0b8f06df40c5fd8f6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/11312d4b2e36f242a98662278418fdf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/11312d4b2e36f242a98662278418fdf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3fa2a00f7a63ed29ccafeec2e0a3ee35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3fa2a00f7a63ed29ccafeec2e0a3ee35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fc72fc8d7881477055e1723a71963b36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fc72fc8d7881477055e1723a71963b36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c114148f184fd5f7a85b33214c0d338e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c114148f184fd5f7a85b33214c0d338e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d259ac164df7c1c654c1ec81c761c91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d259ac164df7c1c654c1ec81c761c91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1565f729326d8974bb3bae930dc95f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1565f729326d8974bb3bae930dc95f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a5d1e41c08f81f44857aa64d3672086b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a5d1e41c08f81f44857aa64d3672086b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d9c858954b926f0231ff9ff11a42454d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d9c858954b926f0231ff9ff11a42454d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b6f9cec0db0a4c3597fa600000e2872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b6f9cec0db0a4c3597fa600000e2872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6133e3cb114228ed36d39644e83cfa86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6133e3cb114228ed36d39644e83cfa86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5af729b9f23066dc697ead4df03cf8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5af729b9f23066dc697ead4df03cf8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9c8f7e75f56bfd772a61b096762bdeed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9c8f7e75f56bfd772a61b096762bdeed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5fb9196b9ed5faaa08ff546d94953d67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5fb9196b9ed5faaa08ff546d94953d67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7510acf27e4816fe850ff10570ff8d77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7510acf27e4816fe850ff10570ff8d77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/716ce9d91140511d3cb19bcd20469e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/716ce9d91140511d3cb19bcd20469e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95e363f09da8a121310fbc6d7dc45683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95e363f09da8a121310fbc6d7dc45683/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/605825d3c587e4c6b340f3fed5e71134/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/605825d3c587e4c6b340f3fed5e71134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f6e4b0d926c8ed60033bf68c09ad4d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f6e4b0d926c8ed60033bf68c09ad4d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b7eee7ad1e101fe64ec576e362e41463/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b7eee7ad1e101fe64ec576e362e41463/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/688f95265d2be61f4ed7f6866b8c8321/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/688f95265d2be61f4ed7f6866b8c8321/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a40993ebbffe0db35848cd8046ccc1c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a40993ebbffe0db35848cd8046ccc1c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/071995ff78c9f126d1f565ba8cf31d04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/071995ff78c9f126d1f565ba8cf31d04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f66bc0628e59c3865736d831f83eecd6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f66bc0628e59c3865736d831f83eecd6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f5b05a9f3f5d5ab91f8ee8aa3711d119/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f5b05a9f3f5d5ab91f8ee8aa3711d119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4000ac57c0b55b6281db60be633e6362/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/faisalshuraym/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4000ac57c0b55b6281db60be633e6362/AndroidManifest.xml:20:5-44
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faisalshuraym/Desktop/Final_project/app/src/main/AndroidManifest.xml
