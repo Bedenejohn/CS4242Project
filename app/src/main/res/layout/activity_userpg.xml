@@ -8,9 +8,6 @@
     android:background="@drawable/bg_login"
     tools:context=".Profilepg">
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
 
     <ImageButton
         android:id="@+id/imageButton"
@@ -31,7 +28,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="33dp"
         android:layout_marginTop="178dp"
-        android:text="TextView" />
+        android:text="Full Name" />
 
     <EditText
         android:id="@+id/editText5"
@@ -55,7 +52,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="33dp"
         android:layout_marginBottom="281dp"
-        android:text="TextView" />
+        android:text="E-mail" />
 
     <TextView
         android:id="@+id/textView8"
@@ -65,7 +62,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="33dp"
         android:layout_marginBottom="187dp"
-        android:text="TextView" />
+        android:text="Phone Number" />
 
     <EditText
         android:id="@+id/editText10"
@@ -97,7 +94,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="33dp"
         android:layout_marginBottom="103dp"
-        android:text="TextView" />
+        android:text="Date of Birth" />
 
     <EditText
         android:id="@+id/editText12"
@@ -108,7 +105,44 @@
         android:layout_marginTop="-103dp"
         android:ems="10"
         android:inputType="date" />
-        
-    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="66dp"
+        android:layout_height="63dp"
+        android:layout_alignBottom="@+id/editText12"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="2dp"
+        android:backgroundTint="#00"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/btn_app_done" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="31dp"
+        android:layout_height="49dp"
+        android:layout_alignBottom="@+id/editText5"
+        android:layout_marginStart="-136dp"
+        android:layout_toEndOf="@+id/editText5"
+        app:srcCompat="@drawable/userpic" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="39dp"
+        android:layout_height="46dp"
+        android:layout_alignStart="@+id/imageView7"
+        android:layout_alignBottom="@+id/editText10"
+        app:srcCompat="@drawable/hint_email" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="39dp"
+        android:layout_height="52dp"
+        android:layout_alignBottom="@+id/editText11"
+        android:layout_marginStart="-136dp"
+        android:layout_toEndOf="@+id/editText5"
+        app:srcCompat="@drawable/ic_smart_phone" />
+
 
 </RelativeLayout>
