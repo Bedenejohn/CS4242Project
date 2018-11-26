@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".pfb" />
+        <activity android:name=".settingpg" />
+        <activity android:name=".Profilepg"></activity>
     </application>
 
 </manifest>

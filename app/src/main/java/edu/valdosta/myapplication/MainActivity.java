@@ -17,17 +17,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        list_view = findViewById(R.id.listView);
-        edit_text = findViewById(R.id.editText);
         adapter = new ArrayAdapter<>(this, R.layout.activity_main);
         list_view.setAdapter(adapter);
-    }
-
-    public void onClick(View view){
-        String text = edit_text.getText().toString();
-        adapter.add(text);
-        adapter.notifyDataSetChanged();
-        edit_text.setText("");
-
     }
 }
